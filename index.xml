@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Matt Groh</title>
+    <link>https://mattgroh.com/</link>
+    <description>Recent content on Matt Groh</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 06 Jan 2021 16:43:12 -0400</lastBuildDate><atom:link href="https://mattgroh.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Podcasts</title>
+      <link>https://mattgroh.com/podcasts/</link>
+      <pubDate>Mon, 14 Feb 2022 14:55:34 -0500</pubDate>
+      
+      <guid>https://mattgroh.com/podcasts/</guid>
+      <description> </description>
+    </item>
+    
+    <item>
+      <title>Notes on using Docker on Matlaber Computers at the Media Lab</title>
+      <link>https://mattgroh.com/technical-notes-list/docker/</link>
+      <pubDate>Wed, 06 Jan 2021 16:43:12 -0400</pubDate>
+      
+      <guid>https://mattgroh.com/technical-notes-list/docker/</guid>
+      <description>These notes are based on a guide by NECSYS and the documents at Docker.
+(1) How to create a docker instance
+First, you&amp;rsquo;ll want to get your uid by running id -u $(whoami)
+# (1) create the container docker run -dit -v /mas:/mas -v /u:/u -v /dtmp:/dtmp -v /tmp:/tmp --name $(whoami)-name-of-container pytorch/pytorch # (2) enter the container docker exec -it $(whoami)-name-of-container bash # (3) install packages apt-get update apt-get install sudo krb5-user kstart vim # (4) make the mlusers group in the container groupadd -g 2000 mlusers # (5) make your user in the container useradd -g 2000 -u YOUR_UID -m -s /bin/bash YOUR_USERNAME # (6) become yourself sudo -iu YOUR_USERNAME It&amp;rsquo;s possible (and likely), that you&amp;rsquo;ll have some permissioning issues.</description>
+    </item>
+    
+    <item>
+      <title>Technical Notes</title>
+      <link>https://mattgroh.com/technical-notes/</link>
+      <pubDate>Fri, 14 Feb 2020 14:55:42 -0500</pubDate>
+      
+      <guid>https://mattgroh.com/technical-notes/</guid>
+      <description>Python
+How to host a jupyter notebook from a remote machine SSH
+How to reverse SSH tunnel
+How to combine multiple PDFs into a single PDF from the command line
+Hugo
+How to set up Hugo locally
+How to host Hugo on Github Pages with a custom domain name</description>
+    </item>
+    
+    <item>
+      <title>Art</title>
+      <link>https://mattgroh.com/art/</link>
+      <pubDate>Fri, 14 Feb 2020 14:55:34 -0500</pubDate>
+      
+      <guid>https://mattgroh.com/art/</guid>
+      <description>Finding the Seams at MIT Museum&amp;nbsp;¶ True or False? at MIT Museum&amp;nbsp;¶ Shadows Sans Substance at 2021 Museum of Wild and Newfangled Art Biennial&amp;nbsp;¶ Shadows Left Behind at Ars Electronica&amp;nbsp;¶ Deep Angel and the Broken Flaneur&amp;nbsp;¶ Presented at SXSW, NeurIPS, ECCV, Product Hunt
+Covered in New York Times, Le Monde, Aeon, Artsy, Fast Company, Digg, Modern Treatise,
+Ganimals&amp;nbsp;¶ Presented at ICCV, Neurips, Ocean Sciences Meeting, Technisches Museum Wien
+AI Spirits&amp;nbsp;¶ Presented at NeurIPS</description>
+    </item>
+    
+    <item>
+      <title>Talks</title>
+      <link>https://mattgroh.com/videos/</link>
+      <pubDate>Fri, 14 Feb 2020 14:55:34 -0500</pubDate>
+      
+      <guid>https://mattgroh.com/videos/</guid>
+      <description> </description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://mattgroh.com/bio/</link>
+      <pubDate>Fri, 14 Feb 2020 14:53:52 -0500</pubDate>
+      
+      <guid>https://mattgroh.com/bio/</guid>
+      <description>Matt Groh is an assistant professor of management and organizations at Northwestern Kellogg School of Management. His research examines human-AI collaboration with a focus on misinformation, medical diagnosis, and empathy. Before joining Northwestern, Matt cofounded a startup and worked as a data scientist at multiple startups, a non-profit, the World Bank, and DARPA. Matt has a BA from Middlebury College where he majored in economics and minored in Arabic and mathematics and an MA and PhD from MIT in Media Arts and Sciences.</description>
+    </item>
+    
+    <item>
+      <title>Ganimals</title>
+      <link>https://mattgroh.com/project-list/ganimals/</link>
+      <pubDate>Fri, 14 Feb 2020 14:35:59 -0500</pubDate>
+      
+      <guid>https://mattgroh.com/project-list/ganimals/</guid>
+      <description>Conferences: ICCV, Neurips, Ocean Sciences Meeting</description>
+    </item>
+    
+    <item>
+      <title>AI Spirits</title>
+      <link>https://mattgroh.com/project-list/ai-spirits/</link>
+      <pubDate>Fri, 14 Feb 2020 14:35:55 -0500</pubDate>
+      
+      <guid>https://mattgroh.com/project-list/ai-spirits/</guid>
+      <description>Conferences: NeurIPS
+Media: Fast Company, Digg,</description>
+    </item>
+    
+    <item>
+      <title>Deep Angel</title>
+      <link>https://mattgroh.com/project-list/deep-angel/</link>
+      <pubDate>Fri, 14 Feb 2020 14:34:58 -0500</pubDate>
+      
+      <guid>https://mattgroh.com/project-list/deep-angel/</guid>
+      <description>Conferences: Ars Electronica, SXSW, NeurIPS, ECCV, Product Hunt
+Media: New York Times, Le Monde, Aeon, Artsy, Fast Company, Digg, Modern Treatise,</description>
+    </item>
+    
+    <item>
+      <title>Breakfast in the Backcountry</title>
+      <link>https://mattgroh.com/backcountry-recipes/breakfast/</link>
+      <pubDate>Sun, 22 Sep 2019 19:30:00 -0400</pubDate>
+      
+      <guid>https://mattgroh.com/backcountry-recipes/breakfast/</guid>
+      <description>Menu&amp;nbsp;¶ Lox &amp;amp; Cream Cheese Bagels Fancy Oatmeal Recipes designed to serve 4 people per day
+Lox and Cream Cheese Bagels&amp;nbsp;¶ 4 everything bagels
+12 ounces of smoked salmon (keep in a cooler)
+1 packs of cream cheese
+1/2 red onion
+1/2 cucumber
+4 tablespoons of capers
+Fancy Oatmeal&amp;nbsp;¶ 2.5 cups rolled oats
+5 teaspoons flaxseeds
+5 teaspoons cacao nibs
+1/2 cup dried blueberries
+1/4 cup dried raspberries
+1/4 cup dried cranberries</description>
+    </item>
+    
+    <item>
+      <title>Lunch in the Backcountry</title>
+      <link>https://mattgroh.com/backcountry-recipes/lunch/</link>
+      <pubDate>Sun, 22 Sep 2019 18:30:00 -0400</pubDate>
+      
+      <guid>https://mattgroh.com/backcountry-recipes/lunch/</guid>
+      <description>Menu&amp;nbsp;¶ Hummus Goat Cheese Tomato Avocado Wraps PB&amp;amp;J Bagels Recipes designed to serve 4 people per day
+Hummus Goat Cheese Tomato Avocado Wraps&amp;nbsp;¶ 4 Tortilla wraps
+1 container of hummus
+1 cucumber
+1 6 ounce goat cheese
+1 tomato
+2 avocados
+Peanut Butter and Jelly Bagels&amp;nbsp;¶ 4 bagels
+1 Peanut butter
+1 Jelly</description>
+    </item>
+    
+    <item>
+      <title>Dinner in the Backcountry</title>
+      <link>https://mattgroh.com/backcountry-recipes/dinner/</link>
+      <pubDate>Sun, 22 Sep 2019 10:30:00 -0400</pubDate>
+      
+      <guid>https://mattgroh.com/backcountry-recipes/dinner/</guid>
+      <description>Menu&amp;nbsp;¶ Fajitas Bibimbap Recipes designed to serve 4 people per day
+Fajitas&amp;nbsp;¶ 8 tortillas
+1 dehydrated black beans
+1 cup of rice
+2 jalapeños
+1 red pepper
+1 green pepper
+1 red onions
+1 8 ounce block of cheddar cheese
+2 cans of chicken
+1 medium salsa
+1 bag of chips
+Bibimbap&amp;nbsp;¶ Instructions: Prepare the sauces at home. At camp, you simply cook the rice in one pot and cook the mushrooms in the mushroom sauce in another pot.</description>
+    </item>
+    
+    <item>
+      <title>Jupyter Notebook From Remote Machine</title>
+      <link>https://mattgroh.com/technical-notes-list/jupyter-notebook-from-remote-machine/</link>
+      <pubDate>Thu, 25 Jul 2019 16:43:12 -0400</pubDate>
+      
+      <guid>https://mattgroh.com/technical-notes-list/jupyter-notebook-from-remote-machine/</guid>
+      <description>Here&amp;rsquo;s how you host a Jupyter Notebook on a remote server that you can access on your local browser. First, ssh into the remote server and type
+jupyter notebook --no-browser --port=8889 You should see a token that looks like:
+jupyter notebook --no-browser --port=8889 [I 16:40:54.686 NotebookApp] Serving notebooks from local directory: /home/groh [I 16:40:54.686 NotebookApp] 0 active kernels [I 16:40:54.687 NotebookApp] The Jupyter Notebook is running at: [I 16:40:54.687 NotebookApp] http://localhost:8889/?</description>
+    </item>
+    
+    <item>
+      <title>Cognitive Blind Spots and Variability in Clinical Medicine</title>
+      <link>https://mattgroh.com/posts/examining-medicine-from-the-lens-of-computation-and-behavioral-science/</link>
+      <pubDate>Mon, 08 Jul 2019 15:49:47 -0400</pubDate>
+      
+      <guid>https://mattgroh.com/posts/examining-medicine-from-the-lens-of-computation-and-behavioral-science/</guid>
+      <description>Lately, I&amp;rsquo;ve been diving into the intersection of three fields: machine learning, behavioral science, and healthcare. What I&amp;rsquo;m curious about is how we might transform healthcare data (electronic health records, clinical notes, medical images) into insights and interventions that could improve how medicine is practiced. What software tools can we build to extend physicians&amp;rsquo; decision-making capabilities?
+In a 2007 New Yorker article, Atul Gawande articulated the question as, &amp;ldquo;expertise is the mantra of modern medicine, but what do you do when expertise is not enough?</description>
+    </item>
+    
+    <item>
+      <title>SSH Tricks</title>
+      <link>https://mattgroh.com/technical-notes-list/reverse-ssh-tunnel/</link>
+      <pubDate>Wed, 19 Jun 2019 16:16:47 -0400</pubDate>
+      
+      <guid>https://mattgroh.com/technical-notes-list/reverse-ssh-tunnel/</guid>
+      <description>Here&amp;rsquo;s how you generate a public/private RSA key pair using the ssh-keygen command:
+ssh-keygen -t rsa Here&amp;rsquo;s how you copy your public SSH key to a remote serve such that you authenticate via your private key instead of your password.
+ssh-copy-id -i ~/.ssh/id_rsa.pub user@hostname Here&amp;rsquo;s how you create a reverse SSH tunnel from a server. From the destination server, you&amp;rsquo;ll set up an SSH tunnel into a relay server.
+ssh -fN -R 10022:localhost:22 relay@hostname.</description>
+    </item>
+    
+    <item>
+      <title>Machine Behavior Mondegreens</title>
+      <link>https://mattgroh.com/posts/machine-behavior-mondegreens/</link>
+      <pubDate>Sun, 28 Apr 2019 13:37:11 -0400</pubDate>
+      
+      <guid>https://mattgroh.com/posts/machine-behavior-mondegreens/</guid>
+      <description>The Google Knowledge Graph is a pretty fantastic publicly accessible store of fast facts. But, it ain&amp;rsquo;t perfect. Every now and then, we come across what I&amp;rsquo;ll call computational mondegreens.
+A mondegreen is a misinterpretation or mishearing of a phrase. The Internet is full of collections of mondegreens, and here&amp;rsquo;s a couple for fun:
+For all intensive purposes comes from for all intents and purposes and nip it in the butt comes from nip it in the bud.</description>
+    </item>
+    
+    <item>
+      <title>Optical Illusions: The Interstitial Zone Between Human and Computer Visions</title>
+      <link>https://mattgroh.com/posts/opitical-illusions-the-interstitial-zone-human-computer-vision/</link>
+      <pubDate>Mon, 11 Mar 2019 00:30:35 -0500</pubDate>
+      
+      <guid>https://mattgroh.com/posts/opitical-illusions-the-interstitial-zone-human-computer-vision/</guid>
+      <description>Our vision can be deceiving. Optical illusions are instances where what we visually perceive differs from reality. Optical illusions can conceal meaning in plain sight. Check a couple optical illusions for human vision and read on to learn about optical illusions for computer vision.
+In the image above, do you see two faces? Do you see a vase?
+In the image above, do you see a young girl? An old woman?</description>
+    </item>
+    
+    <item>
+      <title>Theory of Questions and the Cognitive Reflection Test</title>
+      <link>https://mattgroh.com/posts/cognitive-reflection-test/</link>
+      <pubDate>Tue, 15 Jan 2019 17:04:12 -0500</pubDate>
+      
+      <guid>https://mattgroh.com/posts/cognitive-reflection-test/</guid>
+      <description>Whenever someone asks an esoteric question that appears to have an obvious answer, make sure to think twice. Here are six examples of questions designed such that your first instinct is wrong.
+What do you put in a toaster?
+Say silk 5 times fast. Now, what do cows drink?
+A plane crashed on the border or US and Canada. Where do they bury the survivors?
+A bat and a ball cost $1.</description>
+    </item>
+    
+    <item>
+      <title>Combining PDFs from the Command Line</title>
+      <link>https://mattgroh.com/technical-notes-list/combining-pdfs-from-command-line/</link>
+      <pubDate>Tue, 08 Jan 2019 15:20:41 -0500</pubDate>
+      
+      <guid>https://mattgroh.com/technical-notes-list/combining-pdfs-from-command-line/</guid>
+      <description>Here&amp;rsquo;s a one line command on a Mac to combine PDF documents into a single .pdf. Simply create a new folder, put all the .pdfs that you want to combine in the new folder, and then run the below line of code in your terminal.
+&amp;#34;/System/Library/Automator/Combine PDF Pages.action/Contents/Resources/join.py&amp;#34; -o onepdftorulethemall.pdf *.pdf </description>
+    </item>
+    
+    <item>
+      <title>Hosting Hugo on Github Pages with a Custom Domain Name</title>
+      <link>https://mattgroh.com/technical-notes-list/hosting-hugo-github-pages-custom-domain-name/</link>
+      <pubDate>Fri, 04 Jan 2019 13:40:30 -0500</pubDate>
+      
+      <guid>https://mattgroh.com/technical-notes-list/hosting-hugo-github-pages-custom-domain-name/</guid>
+      <description>Once you&amp;rsquo;ve setup Hugo locally, the next step is hosting your website for the whole world to see. If you wanted you could host Hugo on AWS, Google Cloud Engine, Azure, Digital Ocean, or any other place where servers are hosted. Since Github Pages allows you to host static websites for free and Github is the most popular version control tool available, Github Pages seems like a good bet for hosting a website.</description>
+    </item>
+    
+    <item>
+      <title>Setting up Hugo Locally</title>
+      <link>https://mattgroh.com/technical-notes-list/setting-up-hugo-locally/</link>
+      <pubDate>Tue, 01 Jan 2019 12:13:06 -0500</pubDate>
+      
+      <guid>https://mattgroh.com/technical-notes-list/setting-up-hugo-locally/</guid>
+      <description>I just set up a website with Hugo using the Engimo theme. Hugo is an open-source static site generator, which makes it really east to create and host a website. I&amp;rsquo;m planning to use this site as a place to keep notes. So, I&amp;rsquo;ll start with a note on setting up Hugo.
+1. Install Hugo and and create a website&amp;nbsp;¶ brew install hugo hugo new site quickstart cd quickstart git init git submodule add https://github.</description>
+    </item>
+    
+  </channel>
+</rss>
