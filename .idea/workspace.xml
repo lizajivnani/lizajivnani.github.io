@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="66a5fcc1-54e4-40dc-9ed0-30aa01a43b00" name="Default Changelist" comment="&#10;changed structure">
-      <change beforePath="$PROJECT_DIR$/Teaching.html" beforeDir="false" afterPath="$PROJECT_DIR$/Teaching.html" afterDir="false" />
-    </list>
+    <list default="true" id="66a5fcc1-54e4-40dc-9ed0-30aa01a43b00" name="Default Changelist" comment="&#10;changed structure" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -123,7 +121,35 @@
       <option name="project" value="LOCAL" />
       <updated>1699839698114</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="modified teaching.html again">
+      <created>1699839937856</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1699839937856</updated>
+    </task>
+    <task id="LOCAL-00013" summary="deleting sub dir lizajivnani.com">
+      <created>1699840085542</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1699840085542</updated>
+    </task>
+    <task id="LOCAL-00014" summary="modifying teaching.html 3">
+      <created>1699840215856</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1699840215856</updated>
+    </task>
+    <task id="LOCAL-00015" summary="modifying teaching.html 3">
+      <created>1699840230787</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1699840230787</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -183,6 +209,9 @@
     <MESSAGE value="changed struct" />
     <MESSAGE value="modified bootstrap path in index.html" />
     <MESSAGE value="modified teaching.html" />
-    <option name="LAST_COMMIT_MESSAGE" value="modified teaching.html" />
+    <MESSAGE value="modified teaching.html again" />
+    <MESSAGE value="deleting sub dir lizajivnani.com" />
+    <MESSAGE value="modifying teaching.html 3" />
+    <option name="LAST_COMMIT_MESSAGE" value="modifying teaching.html 3" />
   </component>
 </project>
