@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="66a5fcc1-54e4-40dc-9ed0-30aa01a43b00" name="Default Changelist" comment="&#10;changed structure">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Teaching.html" beforeDir="false" afterPath="$PROJECT_DIR$/Teaching.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -89,7 +90,28 @@
       <option name="project" value="LOCAL" />
       <updated>1699838952741</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="&#10;changed structure">
+      <created>1699839001462</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1699839001462</updated>
+    </task>
+    <task id="LOCAL-00008" summary="changed struct">
+      <created>1699839100191</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1699839100191</updated>
+    </task>
+    <task id="LOCAL-00009" summary="modified bootstrap path in index.html">
+      <created>1699839193762</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1699839193762</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -146,6 +168,8 @@
     <MESSAGE value="first push" />
     <MESSAGE value="fgh" />
     <MESSAGE value="&#10;changed structure" />
-    <option name="LAST_COMMIT_MESSAGE" value="&#10;changed structure" />
+    <MESSAGE value="changed struct" />
+    <MESSAGE value="modified bootstrap path in index.html" />
+    <option name="LAST_COMMIT_MESSAGE" value="modified bootstrap path in index.html" />
   </component>
 </project>
