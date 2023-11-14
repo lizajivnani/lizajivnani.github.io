@@ -51,17 +51,26 @@ jobs:
         uses: actions/deploy-pages@v2
 
         
-- name: Sitemap Generator
+            - name: generate-sitemap
   # You may pin to the exact commit or the version.
-  # uses: cgs-earth/sitemap-generator@c81f3c3e39dd141e59efb3e4736280625b5ba789
-  uses: cgs-earth/sitemap-generator@0.2.0
+  # uses: cicirello/generate-sitemap@abcba11c9eb198b392608f596fd939c9fb9e3edd
+  uses: cicirello/generate-sitemap@v1.9.2
   with:
-    # Filepath to load data from
-    namespace_dir: # default is ./namespaces
-    # Directory for sitemap output
-    sitemap_dir: # default is ./sitemap
-    # Source repository
-    source_repo: # default is geoconnex.us
-    # Filepath to git lastmod from
-    source_repo_path: # default is namespaces
+    # The path to the root of the website
+    path-to-root: # optional, default is .
+    # The url of your webpage
+    base-url-path: # optional, default is https://web.address.of.your.nifty.website/
+    # Indicates whether to include html files in the sitemap.
+    include-html: # optional, default is true
+    # Indicates whether to include pdf files in the sitemap.
+    include-pdf: # optional, default is true
+    # Indicates if sitemap should be formatted in xml.
+    sitemap-format: # optional, default is xml
+    # Space separated list of additional file extensions to include in sitemap.
+    additional-extensions: # optional, default is 
+    # Enables dropping .html from urls in sitemap.
+    drop-html-extension: # optional
+    # Pass true to include only the date without the time in XML sitemaps; and false to include full date and time.
+    date-only: # optional
+          
           
