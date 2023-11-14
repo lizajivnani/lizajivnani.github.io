@@ -49,10 +49,15 @@ jobs:
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v2
+        with:
+            fetch-depth: 0
         
       - name: generate-sitemap
         # You may pin to the exact commit or the version.
         # uses: cicirello/generate-sitemap@abcba11c9eb198b392608f596fd939c9fb9e3edd
         uses: cicirello/generate-sitemap@v1.9.2
+        with:
+            base-url-path: https://lizajivnani.com/index.html
+            
                 
             
