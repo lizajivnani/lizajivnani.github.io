@@ -49,3 +49,19 @@ jobs:
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v2
+
+        
+- name: Sitemap Generator
+  # You may pin to the exact commit or the version.
+  # uses: cgs-earth/sitemap-generator@c81f3c3e39dd141e59efb3e4736280625b5ba789
+  uses: cgs-earth/sitemap-generator@0.2.0
+  with:
+    # Filepath to load data from
+    namespace_dir: # default is ./namespaces
+    # Directory for sitemap output
+    sitemap_dir: # default is ./sitemap
+    # Source repository
+    source_repo: # default is geoconnex.us
+    # Filepath to git lastmod from
+    source_repo_path: # default is namespaces
+          
