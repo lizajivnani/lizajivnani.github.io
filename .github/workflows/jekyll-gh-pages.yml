@@ -57,7 +57,7 @@ jobs:
         # uses: cicirello/generate-sitemap@abcba11c9eb198b392608f596fd939c9fb9e3edd
         uses: cicirello/generate-sitemap@v1.9.2
         with:
-            base-url-path: https://lizajivnani.github.io/
+            base-url-path: https://lizajivnani.com/
             
                 
             
