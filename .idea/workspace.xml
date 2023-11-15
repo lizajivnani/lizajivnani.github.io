@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="66a5fcc1-54e4-40dc-9ed0-30aa01a43b00" name="Default Changelist" comment="&#10;changed structure">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,7 +35,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="TODO_SCOPE" value="All Places" />
-    <property name="last_opened_file_path" value="$USER_HOME$/PycharmProjects/dac_igt" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -187,7 +186,14 @@
       <option name="project" value="LOCAL" />
       <updated>1699878063901</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="index updated">
+      <created>1699977269196</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1699977269196</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -253,6 +259,7 @@
     <MESSAGE value="modifying teaching.html 4" />
     <MESSAGE value="Fixed the hyperlink to projects in index and teaching" />
     <MESSAGE value="modified index.html" />
-    <option name="LAST_COMMIT_MESSAGE" value="modified index.html" />
+    <MESSAGE value="index updated" />
+    <option name="LAST_COMMIT_MESSAGE" value="index updated" />
   </component>
 </project>
