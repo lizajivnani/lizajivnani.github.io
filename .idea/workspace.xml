@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="66a5fcc1-54e4-40dc-9ed0-30aa01a43b00" name="Default Changelist" comment="test&#10;def">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -11,6 +10,9 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="ChangesViewManager" show_ignored="true" />
+  <component name="Git.Merge.Settings">
+    <option name="BRANCH" value="master" />
+  </component>
   <component name="Git.Settings">
     <excluded-from-favorite>
       <branch-storage>
@@ -272,7 +274,28 @@
       <option name="project" value="LOCAL" />
       <updated>1703630248154</updated>
     </task>
-    <option name="localTasksCounter" value="33" />
+    <task id="LOCAL-00033" summary="test&#10;def">
+      <created>1703631378598</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1703631378598</updated>
+    </task>
+    <task id="LOCAL-00034" summary="test&#10;def">
+      <created>1703631419547</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1703631419547</updated>
+    </task>
+    <task id="LOCAL-00035" summary="test&#10;def">
+      <created>1703631489083</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1703631489083</updated>
+    </task>
+    <option name="localTasksCounter" value="36" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -378,6 +401,7 @@
     <MESSAGE value="b b" />
     <MESSAGE value="test" />
     <MESSAGE value="index" />
-    <option name="LAST_COMMIT_MESSAGE" value="index" />
+    <MESSAGE value="test&#10;def" />
+    <option name="LAST_COMMIT_MESSAGE" value="test&#10;def" />
   </component>
 </project>
