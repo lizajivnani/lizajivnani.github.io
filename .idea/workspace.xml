@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="66a5fcc1-54e4-40dc-9ed0-30aa01a43b00" name="Default Changelist" comment="test&#10;def">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Teaching.html" beforeDir="false" afterPath="$PROJECT_DIR$/Teaching.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -295,7 +296,14 @@
       <option name="project" value="LOCAL" />
       <updated>1703631489083</updated>
     </task>
-    <option name="localTasksCounter" value="36" />
+    <task id="LOCAL-00036" summary="changed blog url in teaching.html">
+      <created>1703637452164</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1703637452164</updated>
+    </task>
+    <option name="localTasksCounter" value="37" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -402,6 +410,7 @@
     <MESSAGE value="test" />
     <MESSAGE value="index" />
     <MESSAGE value="test&#10;def" />
-    <option name="LAST_COMMIT_MESSAGE" value="test&#10;def" />
+    <MESSAGE value="changed blog url in teaching.html" />
+    <option name="LAST_COMMIT_MESSAGE" value="changed blog url in teaching.html" />
   </component>
 </project>
