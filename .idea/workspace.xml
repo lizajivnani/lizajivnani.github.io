@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="66a5fcc1-54e4-40dc-9ed0-30aa01a43b00" name="Default Changelist" comment="test&#10;def">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Teaching.html" beforeDir="false" afterPath="$PROJECT_DIR$/Teaching.html" afterDir="false" />
-    </list>
+    <list default="true" id="66a5fcc1-54e4-40dc-9ed0-30aa01a43b00" name="Default Changelist" comment="test&#10;def" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -303,7 +300,56 @@
       <option name="project" value="LOCAL" />
       <updated>1703637452164</updated>
     </task>
-    <option name="localTasksCounter" value="37" />
+    <task id="LOCAL-00037" summary="teaching.html changed">
+      <created>1703976969396</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1703976969396</updated>
+    </task>
+    <task id="LOCAL-00038" summary="teaching.html changed">
+      <created>1703977064124</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1703977064124</updated>
+    </task>
+    <task id="LOCAL-00039" summary="Teaching.html --&gt; 'Publications' heading removed">
+      <created>1703977140406</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1703977140406</updated>
+    </task>
+    <task id="LOCAL-00040" summary="Teaching.html --&gt; extra div removed">
+      <created>1703977168201</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1703977168201</updated>
+    </task>
+    <task id="LOCAL-00041" summary="Teaching.html --&gt;Test Head">
+      <created>1703977207502</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1703977207502</updated>
+    </task>
+    <task id="LOCAL-00042" summary="Teaching.html --&gt;Test Head">
+      <created>1703977647546</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1703977647546</updated>
+    </task>
+    <task id="LOCAL-00043" summary="Teaching.html --&gt;Test Head removed">
+      <created>1703977670684</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1703977670684</updated>
+    </task>
+    <option name="localTasksCounter" value="44" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -386,11 +432,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="first Push" />
-    <MESSAGE value="first push" />
-    <MESSAGE value="fgh" />
-    <MESSAGE value="&#10;changed structure" />
-    <MESSAGE value="changed struct" />
     <MESSAGE value="modified bootstrap path in index.html" />
     <MESSAGE value="modified teaching.html" />
     <MESSAGE value="modified teaching.html again" />
@@ -411,6 +452,11 @@
     <MESSAGE value="index" />
     <MESSAGE value="test&#10;def" />
     <MESSAGE value="changed blog url in teaching.html" />
-    <option name="LAST_COMMIT_MESSAGE" value="changed blog url in teaching.html" />
+    <MESSAGE value="teaching.html changed" />
+    <MESSAGE value="Teaching.html --&gt; 'Publications' heading removed" />
+    <MESSAGE value="Teaching.html --&gt; extra div removed" />
+    <MESSAGE value="Teaching.html --&gt;Test Head" />
+    <MESSAGE value="Teaching.html --&gt;Test Head removed" />
+    <option name="LAST_COMMIT_MESSAGE" value="Teaching.html --&gt;Test Head removed" />
   </component>
 </project>
