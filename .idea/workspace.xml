@@ -365,7 +365,14 @@
       <option name="project" value="LOCAL" />
       <updated>1703978942361</updated>
     </task>
-    <option name="localTasksCounter" value="46" />
+    <task id="LOCAL-00046" summary="Teaching.html --&gt; Kadoka Added">
+      <created>1703979166202</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1703979166202</updated>
+    </task>
+    <option name="localTasksCounter" value="47" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -448,7 +455,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="modified teaching.html" />
     <MESSAGE value="modified teaching.html again" />
     <MESSAGE value="deleting sub dir lizajivnani.com" />
     <MESSAGE value="modifying teaching.html 3" />
@@ -473,6 +479,7 @@
     <MESSAGE value="Teaching.html --&gt;Test Head" />
     <MESSAGE value="Teaching.html --&gt;Test Head removed" />
     <MESSAGE value="Teaching.html --&gt;margin changed" />
-    <option name="LAST_COMMIT_MESSAGE" value="Teaching.html --&gt;margin changed" />
+    <MESSAGE value="Teaching.html --&gt; Kadoka Added" />
+    <option name="LAST_COMMIT_MESSAGE" value="Teaching.html --&gt; Kadoka Added" />
   </component>
 </project>
