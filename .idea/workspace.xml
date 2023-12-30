@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="66a5fcc1-54e4-40dc-9ed0-30aa01a43b00" name="Default Changelist" comment="test&#10;def" />
+    <list default="true" id="66a5fcc1-54e4-40dc-9ed0-30aa01a43b00" name="Default Changelist" comment="test&#10;def">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -349,7 +351,14 @@
       <option name="project" value="LOCAL" />
       <updated>1703977670684</updated>
     </task>
-    <option name="localTasksCounter" value="44" />
+    <task id="LOCAL-00044" summary="Teaching.html --&gt;margin changed">
+      <created>1703978812397</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1703978812397</updated>
+    </task>
+    <option name="localTasksCounter" value="45" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -432,7 +441,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="modified bootstrap path in index.html" />
     <MESSAGE value="modified teaching.html" />
     <MESSAGE value="modified teaching.html again" />
     <MESSAGE value="deleting sub dir lizajivnani.com" />
@@ -457,6 +465,7 @@
     <MESSAGE value="Teaching.html --&gt; extra div removed" />
     <MESSAGE value="Teaching.html --&gt;Test Head" />
     <MESSAGE value="Teaching.html --&gt;Test Head removed" />
-    <option name="LAST_COMMIT_MESSAGE" value="Teaching.html --&gt;Test Head removed" />
+    <MESSAGE value="Teaching.html --&gt;margin changed" />
+    <option name="LAST_COMMIT_MESSAGE" value="Teaching.html --&gt;margin changed" />
   </component>
 </project>
