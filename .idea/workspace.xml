@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="66a5fcc1-54e4-40dc-9ed0-30aa01a43b00" name="Default Changelist" comment="test&#10;def">
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Teaching.html" beforeDir="false" afterPath="$PROJECT_DIR$/Teaching.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,34 +50,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1699835657875</updated>
-    </task>
-    <task id="LOCAL-00010" summary="modified bootstrap path in index.html">
-      <created>1699839643663</created>
-      <option name="number" value="00010" />
-      <option name="presentableId" value="LOCAL-00010" />
-      <option name="project" value="LOCAL" />
-      <updated>1699839643663</updated>
-    </task>
-    <task id="LOCAL-00011" summary="modified teaching.html">
-      <created>1699839698114</created>
-      <option name="number" value="00011" />
-      <option name="presentableId" value="LOCAL-00011" />
-      <option name="project" value="LOCAL" />
-      <updated>1699839698114</updated>
-    </task>
-    <task id="LOCAL-00012" summary="modified teaching.html again">
-      <created>1699839937856</created>
-      <option name="number" value="00012" />
-      <option name="presentableId" value="LOCAL-00012" />
-      <option name="project" value="LOCAL" />
-      <updated>1699839937856</updated>
-    </task>
-    <task id="LOCAL-00013" summary="deleting sub dir lizajivnani.com">
-      <created>1699840085542</created>
-      <option name="number" value="00013" />
-      <option name="presentableId" value="LOCAL-00013" />
-      <option name="project" value="LOCAL" />
-      <updated>1699840085542</updated>
     </task>
     <task id="LOCAL-00014" summary="modifying teaching.html 3">
       <created>1699840215856</created>
@@ -393,7 +366,35 @@
       <option name="project" value="LOCAL" />
       <updated>1703996825795</updated>
     </task>
-    <option name="localTasksCounter" value="59" />
+    <task id="LOCAL-00059" summary="index changed">
+      <created>1703996949360</created>
+      <option name="number" value="00059" />
+      <option name="presentableId" value="LOCAL-00059" />
+      <option name="project" value="LOCAL" />
+      <updated>1703996949360</updated>
+    </task>
+    <task id="LOCAL-00060" summary="index changed">
+      <created>1703996999279</created>
+      <option name="number" value="00060" />
+      <option name="presentableId" value="LOCAL-00060" />
+      <option name="project" value="LOCAL" />
+      <updated>1703996999279</updated>
+    </task>
+    <task id="LOCAL-00061" summary="Teaching.html changed">
+      <created>1703997104104</created>
+      <option name="number" value="00061" />
+      <option name="presentableId" value="LOCAL-00061" />
+      <option name="project" value="LOCAL" />
+      <updated>1703997104104</updated>
+    </task>
+    <task id="LOCAL-00062" summary="Teaching.html changed">
+      <created>1703997221548</created>
+      <option name="number" value="00062" />
+      <option name="presentableId" value="LOCAL-00062" />
+      <option name="project" value="LOCAL" />
+      <updated>1703997221548</updated>
+    </task>
+    <option name="localTasksCounter" value="63" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -476,8 +477,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="index updated" />
-    <MESSAGE value="sitemap.xml added" />
     <MESSAGE value="index.xml deleted" />
     <MESSAGE value="'phD' added" />
     <MESSAGE value="." />
@@ -501,6 +500,8 @@
     <MESSAGE value="Teaching.html --&gt; Kadoka's tab modified" />
     <MESSAGE value="cv Changed" />
     <MESSAGE value="Code/art added" />
-    <option name="LAST_COMMIT_MESSAGE" value="Code/art added" />
+    <MESSAGE value="index changed" />
+    <MESSAGE value="Teaching.html changed" />
+    <option name="LAST_COMMIT_MESSAGE" value="Teaching.html changed" />
   </component>
 </project>
