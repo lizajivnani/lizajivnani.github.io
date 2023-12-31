@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="66a5fcc1-54e4-40dc-9ed0-30aa01a43b00" name="Default Changelist" comment="test&#10;def">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Teaching.html" beforeDir="false" afterPath="$PROJECT_DIR$/Teaching.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,13 +49,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1699835657875</updated>
-    </task>
-    <task id="LOCAL-00018" summary="modified index.html">
-      <created>1699877951345</created>
-      <option name="number" value="00018" />
-      <option name="presentableId" value="LOCAL-00018" />
-      <option name="project" value="LOCAL" />
-      <updated>1699877951345</updated>
     </task>
     <task id="LOCAL-00019" summary="modified index.html">
       <created>1699877982080</created>
@@ -395,7 +386,14 @@
       <option name="project" value="LOCAL" />
       <updated>1703999131410</updated>
     </task>
-    <option name="localTasksCounter" value="67" />
+    <task id="LOCAL-00067" summary="Teaching.html changed">
+      <created>1704003470464</created>
+      <option name="number" value="00067" />
+      <option name="presentableId" value="LOCAL-00067" />
+      <option name="project" value="LOCAL" />
+      <updated>1704003470464</updated>
+    </task>
+    <option name="localTasksCounter" value="68" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
