@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="66a5fcc1-54e4-40dc-9ed0-30aa01a43b00" name="Default Changelist" comment="test&#10;def">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Teaching.html" beforeDir="false" afterPath="$PROJECT_DIR$/Teaching.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -50,20 +49,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1699835657875</updated>
-    </task>
-    <task id="LOCAL-00005" summary="fgh">
-      <created>1699838479948</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1699838479948</updated>
-    </task>
-    <task id="LOCAL-00006" summary="&#10;changed structure">
-      <created>1699838952741</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1699838952741</updated>
     </task>
     <task id="LOCAL-00007" summary="&#10;changed structure">
       <created>1699839001462</created>
@@ -394,7 +379,21 @@
       <option name="project" value="LOCAL" />
       <updated>1703979789450</updated>
     </task>
-    <option name="localTasksCounter" value="54" />
+    <task id="LOCAL-00054" summary="cv Changed">
+      <created>1703996162783</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1703996162783</updated>
+    </task>
+    <task id="LOCAL-00055" summary="cv Changed">
+      <created>1703996246769</created>
+      <option name="number" value="00055" />
+      <option name="presentableId" value="LOCAL-00055" />
+      <option name="project" value="LOCAL" />
+      <updated>1703996246769</updated>
+    </task>
+    <option name="localTasksCounter" value="56" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -477,7 +476,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Fixed the hyperlink to projects in index and teaching" />
     <MESSAGE value="modified index.html" />
     <MESSAGE value="index updated" />
     <MESSAGE value="sitemap.xml added" />
@@ -502,6 +500,7 @@
     <MESSAGE value="Teaching.html --&gt; removed L. Jivnani from Kadoka" />
     <MESSAGE value="Teaching.html --&gt; image size changed" />
     <MESSAGE value="Teaching.html --&gt; Kadoka's tab modified" />
-    <option name="LAST_COMMIT_MESSAGE" value="Teaching.html --&gt; Kadoka's tab modified" />
+    <MESSAGE value="cv Changed" />
+    <option name="LAST_COMMIT_MESSAGE" value="cv Changed" />
   </component>
 </project>
