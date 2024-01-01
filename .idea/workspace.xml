@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="66a5fcc1-54e4-40dc-9ed0-30aa01a43b00" name="Default Changelist" comment="test&#10;def">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Teaching.html" beforeDir="false" afterPath="$PROJECT_DIR$/Teaching.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -50,20 +49,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1699835657875</updated>
-    </task>
-    <task id="LOCAL-00031" summary="test">
-      <created>1703630190660</created>
-      <option name="number" value="00031" />
-      <option name="presentableId" value="LOCAL-00031" />
-      <option name="project" value="LOCAL" />
-      <updated>1703630190660</updated>
-    </task>
-    <task id="LOCAL-00032" summary="index">
-      <created>1703630248154</created>
-      <option name="number" value="00032" />
-      <option name="presentableId" value="LOCAL-00032" />
-      <option name="project" value="LOCAL" />
-      <updated>1703630248154</updated>
     </task>
     <task id="LOCAL-00033" summary="test&#10;def">
       <created>1703631378598</created>
@@ -394,7 +379,21 @@
       <option name="project" value="LOCAL" />
       <updated>1704080478558</updated>
     </task>
-    <option name="localTasksCounter" value="80" />
+    <task id="LOCAL-00080" summary="Tic Tac Toe with AI">
+      <created>1704081784355</created>
+      <option name="number" value="00080" />
+      <option name="presentableId" value="LOCAL-00080" />
+      <option name="project" value="LOCAL" />
+      <updated>1704081784355</updated>
+    </task>
+    <task id="LOCAL-00081" summary="Tic Tac Toe with AI">
+      <created>1704081836017</created>
+      <option name="number" value="00081" />
+      <option name="presentableId" value="LOCAL-00081" />
+      <option name="project" value="LOCAL" />
+      <updated>1704081836017</updated>
+    </task>
+    <option name="localTasksCounter" value="82" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -477,7 +476,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="'phD' added" />
     <MESSAGE value="." />
     <MESSAGE value=". a" />
     <MESSAGE value="Blog changed to medium" />
@@ -502,6 +500,7 @@
     <MESSAGE value="index changed" />
     <MESSAGE value="Teaching.html changed" />
     <MESSAGE value="The Talkative me added" />
-    <option name="LAST_COMMIT_MESSAGE" value="The Talkative me added" />
+    <MESSAGE value="Tic Tac Toe with AI" />
+    <option name="LAST_COMMIT_MESSAGE" value="Tic Tac Toe with AI" />
   </component>
 </project>
