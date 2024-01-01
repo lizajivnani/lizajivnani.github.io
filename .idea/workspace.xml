@@ -51,13 +51,6 @@
       <option name="presentableId" value="Default" />
       <updated>1699835657875</updated>
     </task>
-    <task id="LOCAL-00025" summary=".">
-      <created>1700613687305</created>
-      <option name="number" value="00025" />
-      <option name="presentableId" value="LOCAL-00025" />
-      <option name="project" value="LOCAL" />
-      <updated>1700613687305</updated>
-    </task>
     <task id="LOCAL-00026" summary=". a">
       <created>1700613718162</created>
       <option name="number" value="00026" />
@@ -394,7 +387,14 @@
       <option name="project" value="LOCAL" />
       <updated>1704004287843</updated>
     </task>
-    <option name="localTasksCounter" value="74" />
+    <task id="LOCAL-00074" summary="The Talkative me added">
+      <created>1704078649481</created>
+      <option name="number" value="00074" />
+      <option name="presentableId" value="LOCAL-00074" />
+      <option name="project" value="LOCAL" />
+      <updated>1704078649482</updated>
+    </task>
+    <option name="localTasksCounter" value="75" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -477,7 +477,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="index.xml deleted" />
     <MESSAGE value="'phD' added" />
     <MESSAGE value="." />
     <MESSAGE value=". a" />
@@ -502,6 +501,7 @@
     <MESSAGE value="Code/art added" />
     <MESSAGE value="index changed" />
     <MESSAGE value="Teaching.html changed" />
-    <option name="LAST_COMMIT_MESSAGE" value="Teaching.html changed" />
+    <MESSAGE value="The Talkative me added" />
+    <option name="LAST_COMMIT_MESSAGE" value="The Talkative me added" />
   </component>
 </project>
