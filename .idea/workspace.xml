@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="66a5fcc1-54e4-40dc-9ed0-30aa01a43b00" name="Default Changelist" comment="test&#10;def">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/AffectHouse.html" beforeDir="false" afterPath="$PROJECT_DIR$/AffectHouse.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Teaching.html" beforeDir="false" afterPath="$PROJECT_DIR$/Teaching.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,20 +65,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1699835657875</updated>
-    </task>
-    <task id="LOCAL-00045" summary="Teaching.html --&gt;margin changed">
-      <created>1703978942361</created>
-      <option name="number" value="00045" />
-      <option name="presentableId" value="LOCAL-00045" />
-      <option name="project" value="LOCAL" />
-      <updated>1703978942361</updated>
-    </task>
-    <task id="LOCAL-00046" summary="Teaching.html --&gt; Kadoka Added">
-      <created>1703979166202</created>
-      <option name="number" value="00046" />
-      <option name="presentableId" value="LOCAL-00046" />
-      <option name="project" value="LOCAL" />
-      <updated>1703979166202</updated>
     </task>
     <task id="LOCAL-00047" summary="Teaching.html --&gt; others removed">
       <created>1703979210528</created>
@@ -406,7 +395,21 @@
       <option name="project" value="LOCAL" />
       <updated>1705631738558</updated>
     </task>
-    <option name="localTasksCounter" value="94" />
+    <task id="LOCAL-00094" summary="adding affect House">
+      <created>1705631762305</created>
+      <option name="number" value="00094" />
+      <option name="presentableId" value="LOCAL-00094" />
+      <option name="project" value="LOCAL" />
+      <updated>1705631762306</updated>
+    </task>
+    <task id="LOCAL-00095" summary="adding affect House">
+      <created>1705631775738</created>
+      <option name="number" value="00095" />
+      <option name="presentableId" value="LOCAL-00095" />
+      <option name="project" value="LOCAL" />
+      <updated>1705631775738</updated>
+    </task>
+    <option name="localTasksCounter" value="96" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
