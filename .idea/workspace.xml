@@ -63,41 +63,6 @@
       <option name="presentableId" value="Default" />
       <updated>1699835657875</updated>
     </task>
-    <task id="LOCAL-00066" summary="Teaching.html changed">
-      <created>1703999131410</created>
-      <option name="number" value="00066" />
-      <option name="presentableId" value="LOCAL-00066" />
-      <option name="project" value="LOCAL" />
-      <updated>1703999131410</updated>
-    </task>
-    <task id="LOCAL-00067" summary="Teaching.html changed">
-      <created>1704003470464</created>
-      <option name="number" value="00067" />
-      <option name="presentableId" value="LOCAL-00067" />
-      <option name="project" value="LOCAL" />
-      <updated>1704003470464</updated>
-    </task>
-    <task id="LOCAL-00068" summary="Teaching.html changed">
-      <created>1704003504918</created>
-      <option name="number" value="00068" />
-      <option name="presentableId" value="LOCAL-00068" />
-      <option name="project" value="LOCAL" />
-      <updated>1704003504918</updated>
-    </task>
-    <task id="LOCAL-00069" summary="Teaching.html changed">
-      <created>1704003525286</created>
-      <option name="number" value="00069" />
-      <option name="presentableId" value="LOCAL-00069" />
-      <option name="project" value="LOCAL" />
-      <updated>1704003525286</updated>
-    </task>
-    <task id="LOCAL-00070" summary="Teaching.html changed">
-      <created>1704003575214</created>
-      <option name="number" value="00070" />
-      <option name="presentableId" value="LOCAL-00070" />
-      <option name="project" value="LOCAL" />
-      <updated>1704003575214</updated>
-    </task>
     <task id="LOCAL-00071" summary="Teaching.html changed">
       <created>1704004077593</created>
       <option name="number" value="00071" />
@@ -406,7 +371,42 @@
       <option name="project" value="LOCAL" />
       <updated>1705633930859</updated>
     </task>
-    <option name="localTasksCounter" value="115" />
+    <task id="LOCAL-00115" summary="Changed the order of pages">
+      <created>1705633961558</created>
+      <option name="number" value="00115" />
+      <option name="presentableId" value="LOCAL-00115" />
+      <option name="project" value="LOCAL" />
+      <updated>1705633961558</updated>
+    </task>
+    <task id="LOCAL-00116" summary="Changed the order of pages">
+      <created>1705633989499</created>
+      <option name="number" value="00116" />
+      <option name="presentableId" value="LOCAL-00116" />
+      <option name="project" value="LOCAL" />
+      <updated>1705633989499</updated>
+    </task>
+    <task id="LOCAL-00117" summary="Changed the order of pages">
+      <created>1705634012440</created>
+      <option name="number" value="00117" />
+      <option name="presentableId" value="LOCAL-00117" />
+      <option name="project" value="LOCAL" />
+      <updated>1705634012440</updated>
+    </task>
+    <task id="LOCAL-00118" summary="Changed the order of pages">
+      <created>1705634029715</created>
+      <option name="number" value="00118" />
+      <option name="presentableId" value="LOCAL-00118" />
+      <option name="project" value="LOCAL" />
+      <updated>1705634029715</updated>
+    </task>
+    <task id="LOCAL-00119" summary="Changed the order of pages">
+      <created>1705634072422</created>
+      <option name="number" value="00119" />
+      <option name="presentableId" value="LOCAL-00119" />
+      <option name="project" value="LOCAL" />
+      <updated>1705634072422</updated>
+    </task>
+    <option name="localTasksCounter" value="120" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
