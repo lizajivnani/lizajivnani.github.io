@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="66a5fcc1-54e4-40dc-9ed0-30aa01a43b00" name="Default Changelist" comment="test&#10;def">
-      <change afterPath="$PROJECT_DIR$/_includes/vimeoPlayer.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/AffectHouse.html" beforeDir="false" afterPath="$PROJECT_DIR$/AffectHouse.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -64,34 +62,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1699835657875</updated>
-    </task>
-    <task id="LOCAL-00074" summary="The Talkative me added">
-      <created>1704078649481</created>
-      <option name="number" value="00074" />
-      <option name="presentableId" value="LOCAL-00074" />
-      <option name="project" value="LOCAL" />
-      <updated>1704078649482</updated>
-    </task>
-    <task id="LOCAL-00075" summary="The Talkative me added">
-      <created>1704079954102</created>
-      <option name="number" value="00075" />
-      <option name="presentableId" value="LOCAL-00075" />
-      <option name="project" value="LOCAL" />
-      <updated>1704079954102</updated>
-    </task>
-    <task id="LOCAL-00076" summary="The Talkative me added">
-      <created>1704080123176</created>
-      <option name="number" value="00076" />
-      <option name="presentableId" value="LOCAL-00076" />
-      <option name="project" value="LOCAL" />
-      <updated>1704080123177</updated>
-    </task>
-    <task id="LOCAL-00077" summary="The Talkative me added">
-      <created>1704080193554</created>
-      <option name="number" value="00077" />
-      <option name="presentableId" value="LOCAL-00077" />
-      <option name="project" value="LOCAL" />
-      <updated>1704080193554</updated>
     </task>
     <task id="LOCAL-00078" summary="The Talkative me added">
       <created>1704080360196</created>
@@ -408,7 +378,35 @@
       <option name="project" value="LOCAL" />
       <updated>1705634179724</updated>
     </task>
-    <option name="localTasksCounter" value="123" />
+    <task id="LOCAL-00123" summary="Changed the order of pages">
+      <created>1705634821667</created>
+      <option name="number" value="00123" />
+      <option name="presentableId" value="LOCAL-00123" />
+      <option name="project" value="LOCAL" />
+      <updated>1705634821667</updated>
+    </task>
+    <task id="LOCAL-00124" summary="Changed the order of pages">
+      <created>1705634830869</created>
+      <option name="number" value="00124" />
+      <option name="presentableId" value="LOCAL-00124" />
+      <option name="project" value="LOCAL" />
+      <updated>1705634830869</updated>
+    </task>
+    <task id="LOCAL-00125" summary="Changed the order of pages">
+      <created>1705634846402</created>
+      <option name="number" value="00125" />
+      <option name="presentableId" value="LOCAL-00125" />
+      <option name="project" value="LOCAL" />
+      <updated>1705634846402</updated>
+    </task>
+    <task id="LOCAL-00126" summary="Changed the order of pages">
+      <created>1705634864773</created>
+      <option name="number" value="00126" />
+      <option name="presentableId" value="LOCAL-00126" />
+      <option name="project" value="LOCAL" />
+      <updated>1705634864773</updated>
+    </task>
+    <option name="localTasksCounter" value="127" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
