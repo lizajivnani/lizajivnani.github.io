@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="66a5fcc1-54e4-40dc-9ed0-30aa01a43b00" name="Default Changelist" comment="test&#10;def">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/AffectHouse.html" beforeDir="false" afterPath="$PROJECT_DIR$/AffectHouse.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -63,34 +62,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1699835657875</updated>
-    </task>
-    <task id="LOCAL-00060" summary="index changed">
-      <created>1703996999279</created>
-      <option name="number" value="00060" />
-      <option name="presentableId" value="LOCAL-00060" />
-      <option name="project" value="LOCAL" />
-      <updated>1703996999279</updated>
-    </task>
-    <task id="LOCAL-00061" summary="Teaching.html changed">
-      <created>1703997104104</created>
-      <option name="number" value="00061" />
-      <option name="presentableId" value="LOCAL-00061" />
-      <option name="project" value="LOCAL" />
-      <updated>1703997104104</updated>
-    </task>
-    <task id="LOCAL-00062" summary="Teaching.html changed">
-      <created>1703997221548</created>
-      <option name="number" value="00062" />
-      <option name="presentableId" value="LOCAL-00062" />
-      <option name="project" value="LOCAL" />
-      <updated>1703997221548</updated>
-    </task>
-    <task id="LOCAL-00063" summary="Teaching.html changed">
-      <created>1703998598474</created>
-      <option name="number" value="00063" />
-      <option name="presentableId" value="LOCAL-00063" />
-      <option name="project" value="LOCAL" />
-      <updated>1703998598474</updated>
     </task>
     <task id="LOCAL-00064" summary="Teaching.html changed">
       <created>1703998840439</created>
@@ -407,7 +378,35 @@
       <option name="project" value="LOCAL" />
       <updated>1705632875348</updated>
     </task>
-    <option name="localTasksCounter" value="109" />
+    <task id="LOCAL-00109" summary="Changed the order of pages">
+      <created>1705633512149</created>
+      <option name="number" value="00109" />
+      <option name="presentableId" value="LOCAL-00109" />
+      <option name="project" value="LOCAL" />
+      <updated>1705633512149</updated>
+    </task>
+    <task id="LOCAL-00110" summary="Changed the order of pages">
+      <created>1705633555336</created>
+      <option name="number" value="00110" />
+      <option name="presentableId" value="LOCAL-00110" />
+      <option name="project" value="LOCAL" />
+      <updated>1705633555336</updated>
+    </task>
+    <task id="LOCAL-00111" summary="Changed the order of pages">
+      <created>1705633751987</created>
+      <option name="number" value="00111" />
+      <option name="presentableId" value="LOCAL-00111" />
+      <option name="project" value="LOCAL" />
+      <updated>1705633751987</updated>
+    </task>
+    <task id="LOCAL-00112" summary="Changed the order of pages">
+      <created>1705633759158</created>
+      <option name="number" value="00112" />
+      <option name="presentableId" value="LOCAL-00112" />
+      <option name="project" value="LOCAL" />
+      <updated>1705633759158</updated>
+    </task>
+    <option name="localTasksCounter" value="113" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
