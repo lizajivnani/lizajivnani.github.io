@@ -63,13 +63,6 @@
       <option name="presentableId" value="Default" />
       <updated>1699835657875</updated>
     </task>
-    <task id="LOCAL-00081" summary="Tic Tac Toe with AI">
-      <created>1704081836017</created>
-      <option name="number" value="00081" />
-      <option name="presentableId" value="LOCAL-00081" />
-      <option name="project" value="LOCAL" />
-      <updated>1704081836017</updated>
-    </task>
     <task id="LOCAL-00082" summary="Tic Tac Toe with AI">
       <created>1704081993571</created>
       <option name="number" value="00082" />
@@ -406,7 +399,14 @@
       <option name="project" value="LOCAL" />
       <updated>1705635345277</updated>
     </task>
-    <option name="localTasksCounter" value="130" />
+    <task id="LOCAL-00130" summary="Changed the order of pages">
+      <created>1705635361391</created>
+      <option name="number" value="00130" />
+      <option name="presentableId" value="LOCAL-00130" />
+      <option name="project" value="LOCAL" />
+      <updated>1705635361391</updated>
+    </task>
+    <option name="localTasksCounter" value="131" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
