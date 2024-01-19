@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="66a5fcc1-54e4-40dc-9ed0-30aa01a43b00" name="Default Changelist" comment="test&#10;def">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/AffectHouse.html" beforeDir="false" afterPath="$PROJECT_DIR$/AffectHouse.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -62,48 +63,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1699835657875</updated>
-    </task>
-    <task id="LOCAL-00090" summary="adding affect House">
-      <created>1705630529156</created>
-      <option name="number" value="00090" />
-      <option name="presentableId" value="LOCAL-00090" />
-      <option name="project" value="LOCAL" />
-      <updated>1705630529157</updated>
-    </task>
-    <task id="LOCAL-00091" summary="adding affect House">
-      <created>1705630558445</created>
-      <option name="number" value="00091" />
-      <option name="presentableId" value="LOCAL-00091" />
-      <option name="project" value="LOCAL" />
-      <updated>1705630558445</updated>
-    </task>
-    <task id="LOCAL-00092" summary="adding affect House">
-      <created>1705630885987</created>
-      <option name="number" value="00092" />
-      <option name="presentableId" value="LOCAL-00092" />
-      <option name="project" value="LOCAL" />
-      <updated>1705630885988</updated>
-    </task>
-    <task id="LOCAL-00093" summary="adding affect House">
-      <created>1705631738558</created>
-      <option name="number" value="00093" />
-      <option name="presentableId" value="LOCAL-00093" />
-      <option name="project" value="LOCAL" />
-      <updated>1705631738558</updated>
-    </task>
-    <task id="LOCAL-00094" summary="adding affect House">
-      <created>1705631762305</created>
-      <option name="number" value="00094" />
-      <option name="presentableId" value="LOCAL-00094" />
-      <option name="project" value="LOCAL" />
-      <updated>1705631762306</updated>
-    </task>
-    <task id="LOCAL-00095" summary="adding affect House">
-      <created>1705631775738</created>
-      <option name="number" value="00095" />
-      <option name="presentableId" value="LOCAL-00095" />
-      <option name="project" value="LOCAL" />
-      <updated>1705631775738</updated>
     </task>
     <task id="LOCAL-00096" summary="Changed the order of pages">
       <created>1705631866519</created>
@@ -406,7 +365,49 @@
       <option name="project" value="LOCAL" />
       <updated>1705635866140</updated>
     </task>
-    <option name="localTasksCounter" value="139" />
+    <task id="LOCAL-00139" summary="Changed the order of pages">
+      <created>1705635979593</created>
+      <option name="number" value="00139" />
+      <option name="presentableId" value="LOCAL-00139" />
+      <option name="project" value="LOCAL" />
+      <updated>1705635979593</updated>
+    </task>
+    <task id="LOCAL-00140" summary="Changed the order of pages">
+      <created>1705635994354</created>
+      <option name="number" value="00140" />
+      <option name="presentableId" value="LOCAL-00140" />
+      <option name="project" value="LOCAL" />
+      <updated>1705635994354</updated>
+    </task>
+    <task id="LOCAL-00141" summary="changed back to vimeo">
+      <created>1705636015492</created>
+      <option name="number" value="00141" />
+      <option name="presentableId" value="LOCAL-00141" />
+      <option name="project" value="LOCAL" />
+      <updated>1705636015492</updated>
+    </task>
+    <task id="LOCAL-00142" summary="changed back to vimeo">
+      <created>1705636029406</created>
+      <option name="number" value="00142" />
+      <option name="presentableId" value="LOCAL-00142" />
+      <option name="project" value="LOCAL" />
+      <updated>1705636029406</updated>
+    </task>
+    <task id="LOCAL-00143" summary="changed back to vimeo">
+      <created>1705636168818</created>
+      <option name="number" value="00143" />
+      <option name="presentableId" value="LOCAL-00143" />
+      <option name="project" value="LOCAL" />
+      <updated>1705636168818</updated>
+    </task>
+    <task id="LOCAL-00144" summary="changed to youtube">
+      <created>1705636266733</created>
+      <option name="number" value="00144" />
+      <option name="presentableId" value="LOCAL-00144" />
+      <option name="project" value="LOCAL" />
+      <updated>1705636266733</updated>
+    </task>
+    <option name="localTasksCounter" value="145" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -489,8 +490,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Blog changed to medium" />
-    <MESSAGE value="b b" />
     <MESSAGE value="test" />
     <MESSAGE value="index" />
     <MESSAGE value="test&#10;def" />
@@ -514,6 +513,8 @@
     <MESSAGE value="Tic Tac Toe with AI" />
     <MESSAGE value="adding affect House" />
     <MESSAGE value="Changed the order of pages" />
-    <option name="LAST_COMMIT_MESSAGE" value="Changed the order of pages" />
+    <MESSAGE value="changed back to vimeo" />
+    <MESSAGE value="changed to youtube" />
+    <option name="LAST_COMMIT_MESSAGE" value="changed to youtube" />
   </component>
 </project>
