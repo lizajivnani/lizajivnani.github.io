@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="66a5fcc1-54e4-40dc-9ed0-30aa01a43b00" name="Default Changelist" comment="test&#10;def" />
+    <list default="true" id="66a5fcc1-54e4-40dc-9ed0-30aa01a43b00" name="Default Changelist" comment="test&#10;def">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -60,13 +63,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1699835657875</updated>
-    </task>
-    <task id="LOCAL-00118" summary="Changed the order of pages">
-      <created>1705634029715</created>
-      <option name="number" value="00118" />
-      <option name="presentableId" value="LOCAL-00118" />
-      <option name="project" value="LOCAL" />
-      <updated>1705634029715</updated>
     </task>
     <task id="LOCAL-00119" summary="Changed the order of pages">
       <created>1705634072422</created>
@@ -404,7 +400,14 @@
       <option name="project" value="LOCAL" />
       <updated>1705637131801</updated>
     </task>
-    <option name="localTasksCounter" value="167" />
+    <task id="LOCAL-00167" summary="added the acii talk link">
+      <created>1705785311918</created>
+      <option name="number" value="00167" />
+      <option name="presentableId" value="LOCAL-00167" />
+      <option name="project" value="LOCAL" />
+      <updated>1705785311919</updated>
+    </task>
+    <option name="localTasksCounter" value="168" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -487,7 +490,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="test" />
     <MESSAGE value="index" />
     <MESSAGE value="test&#10;def" />
     <MESSAGE value="changed blog url in teaching.html" />
@@ -512,6 +514,7 @@
     <MESSAGE value="Changed the order of pages" />
     <MESSAGE value="changed back to vimeo" />
     <MESSAGE value="changed to youtube" />
-    <option name="LAST_COMMIT_MESSAGE" value="changed to youtube" />
+    <MESSAGE value="added the acii talk link" />
+    <option name="LAST_COMMIT_MESSAGE" value="added the acii talk link" />
   </component>
 </project>
